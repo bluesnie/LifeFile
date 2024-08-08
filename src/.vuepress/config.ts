@@ -6,8 +6,8 @@ import { getDirname, path } from "@vuepress/utils";
 import theme from "./theme.js";
 
 export default defineUserConfig({
-  // base: "/MyLife/",  // 在线github-pages 部署
-  base: "/",           // 本地调试npm run docs:dev 或 本地部署，python3 -m http.server 8080
+  base: "/LifeFile/",  // 在线github-pages 部署
+  // base: "/",           // 本地调试npm run docs:dev 或 本地部署，python3 -m http.server 8080
 
   dest: 'docs', // 打包输出路径
 

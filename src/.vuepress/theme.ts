@@ -37,7 +37,7 @@ export default hopeTheme({
   hotReload: true,
   // plugins.git: true,
   // 全屏按钮
-  fullscreen: false,
+  fullscreen: true,
   // 加密配置
   encrypt: {
     config: {

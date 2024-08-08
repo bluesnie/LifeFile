@@ -4,6 +4,11 @@ export default navbar([
   "/",
   "/life_file/",
   {
+    text: "知识拓展",
+    icon: "book",
+    link: "https://bluesnie.github.io/Learning-notes/",
+  },
+  {
     text: "学习笔记",
     icon: "book",
     link: "https://bluesnie.github.io/Learning-notes/",
@@ -14,7 +19,11 @@ export default navbar([
     prefix: "/timeline/",
     link: "/timeline/",
   },
-
+  {
+    text: "About me",
+    icon: "book",
+    link: "https://bluesnie.github.io/Learning-notes/",
+  },
   {
     text: "文档",
     icon: "circle-info",

@@ -6,7 +6,7 @@ title: 个人主页
 bgImage: /life_file/backgroud_img.png
 bgImageDark: /life_file/backgroud_img2.png
 heroFullScreen: true
-heroText: Welcome
+heroText: false # Welcome
 tagline: ✨照顾好自己,照顾好家人,努力赚钱✨
 actions:
   - text: 【计划人生】

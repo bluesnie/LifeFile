@@ -1,6 +1,6 @@
 ---
 title: 鸡汤
-icon: face-smile
+# icon: face-smile
 breadcrumbExclude: true
 ---
 

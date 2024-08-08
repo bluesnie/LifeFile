@@ -10,6 +10,39 @@ export default sidebar({
       link: "",
       collapsible: true,
       children: [
+        {
+          text: "人生待办",
+          icon: "",
+          prefix: "todo/",
+          collapsible: true,
+          children: "structure",
+        },
+        {
+          text: "旅途",
+          icon: "",
+          prefix: "journey/",
+          collapsible: true,
+          children: "structure",
+        },
+          {
+            text: "退休计划",
+            icon: "",
+            prefix: "retire_plan/",
+            collapsible: true,
+            children: "structure",
+          },
+
+      ],
+    },
+  ],
+  "/knowledge_expansion/": [
+    {
+      text: "知识拓展",
+      icon: "",
+      prefix: "",
+      link: "",
+      collapsible: true,
+      children: [
           {
             text: "书籍",
             icon: "",
@@ -25,30 +58,9 @@ export default sidebar({
             children: "structure",
           },
           {
-            text: "退休计划",
+            text: "人生如戏",
             icon: "",
-            prefix: "retire_plan/",
-            collapsible: true,
-            children: "structure",
-          },
-          {
-            text: "人生待办",
-            icon: "",
-            prefix: "todo/",
-            collapsible: true,
-            children: "structure",
-          },
-          {
-            text: "旅途",
-            icon: "",
-            prefix: "journey/",
-            collapsible: true,
-            children: "structure",
-          },
-          {
-            text: "社会毒打",
-            icon: "",
-            prefix: "chicken_soup_for_life/",
+            prefix: "life_movie/",
             collapsible: true,
             children: "structure",
           },

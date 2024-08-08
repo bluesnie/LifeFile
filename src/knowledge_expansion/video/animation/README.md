@@ -1,6 +1,6 @@
 ---
 title: 动画
-icon: clapperboard
+# icon: clapperboard
 ---
 
 - [蜘蛛侠：平行宇宙](./spider_man.md)

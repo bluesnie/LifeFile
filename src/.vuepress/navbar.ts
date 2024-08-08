@@ -2,12 +2,8 @@ import { navbar } from "vuepress-theme-hope";
 
 export default navbar([
   "/",
-  "/life_file/",
-  {
-    text: "知识拓展",
-    icon: "book",
-    link: "https://bluesnie.github.io/Learning-notes/",
-  },
+  "/life_file/",  
+  "/knowledge_expansion/",
   {
     text: "学习笔记",
     icon: "book",
@@ -19,11 +15,7 @@ export default navbar([
     prefix: "/timeline/",
     link: "/timeline/",
   },
-  {
-    text: "About me",
-    icon: "book",
-    link: "https://bluesnie.github.io/Learning-notes/",
-  },
+  "/about_me/",
   {
     text: "文档",
     icon: "circle-info",

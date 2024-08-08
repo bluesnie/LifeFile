@@ -46,6 +46,7 @@ export default hopeTheme({
       // 这只会加密 /config/page.html
       // "/config/page.html": "1234",
       // "/life_file/todo/todo.html": "1234"
+      "/about_me/": "1234"
     },
   },
 

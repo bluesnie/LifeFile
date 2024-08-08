@@ -1,6 +1,6 @@
 ---
 title: 带你探索地球
-icon: video
+# icon: video
 ---
 
 - [带你探索地球:film_projector:](https://www.bilibili.com/bangumi/play/ss45622?spm_id_from=333.337.0.0)
